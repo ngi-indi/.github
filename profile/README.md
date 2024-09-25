@@ -30,15 +30,15 @@ The InDi project seeks to address key shortcomings in traditional search engines
 
 ## Partners
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td align="center">
-      <img src="https://www.unica.it/ecommerce/export/sites/default/it/.galleries/nuova_immagine_home/universita_cagliari_logo.png" alt="University of Cagliari Logo" width="100"><br>
+    <td align="center" style="border: none;">
+      <img src="https://www.unica.it/sites/default/files/styles/wide/public/2023-06/Logo_lungo_RGB_d0.png?itok=b_qHk7do" alt="University of Cagliari Logo" width="100"><br>
       <strong>University of Cagliari</strong><br>
       Key research partner with expertise in Information Retrieval, AI, and Semantic Web.
     </td>
-    <td align="center">
-      <img src="https://www.r2msolution.com/wordpress/wp-content/uploads/2020/03/logo-R2M-black.png" alt="R2M Solution Logo" width="100"><br>
+    <td align="center" style="border: none;">
+      <img src="https://www.r2msolution.com/wp-content/uploads/2020/01/cropped-R2M-small-09.png" alt="R2M Solution Logo" width="100"><br>
       <strong>R2M Solution</strong><br>
       Business development partner providing industry experience and ICT activities.
     </td>
