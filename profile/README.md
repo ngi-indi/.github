@@ -30,20 +30,12 @@ The InDi project seeks to address key shortcomings in traditional search engines
 
 ## Partners
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td align="center" style="width: 50%!important; border: none!important;">
-      <img src="https://www.unica.it/sites/default/files/styles/wide/public/2023-06/Logo_lungo_RGB_d0.png?itok=b_qHk7do" alt="University of Cagliari Logo" width="225"><br>
-      <strong>University of Cagliari</strong><br>
-      Key research partner with expertise in Information Retrieval, Artificial Intelligence, and Semantic Web.
-    </td>
-    <td align="center" style="width: 50%!important; border: none!important;">
-      <img src="https://lifeprojects.r2msolution.com/wp-content/uploads/2024/03/Logo-R2M-Solution-RED-SRGB-2.png" alt="R2M Solution Logo" width="100"><br>
-      <strong>R2M Solution</strong><br>
-      Business development partner providing industry experience and Information and Communication Technologies activities.
-    </td>
-  </tr>
-</table>
+# Project Partners
+
+| University of Cagliari                                                                                          | R2M Solution                                                                                      |
+|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| <img src="https://www.unica.it/sites/default/files/styles/wide/public/2023-06/Logo_lungo_RGB_d0.png?itok=b_qHk7do" width="225"/> <br> **University of Cagliari** <br> Key research partner with expertise in Information Retrieval, Artificial Intelligence, and Semantic Web. | <img src="https://lifeprojects.r2msolution.com/wp-content/uploads/2024/03/Logo-R2M-Solution-RED-SRGB-2.png" width="100"/> <br> **R2M Solution** <br> Business development partner providing industry experience and Information and Communication Technologies activities. |
+
 
 ## How to Contribute
 
