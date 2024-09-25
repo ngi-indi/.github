@@ -129,7 +129,7 @@ docker build -t reviewbackend .
 docker run -d --name reviewbackend --network indi_network -p 1337:1337 reviewbackend
 ```
 
-### STep 7: Set Up the Blockchain Module
+### Step 7: Set Up the Blockchain Module
 
 1. Clone the **Blockchain Module** repository:
 
