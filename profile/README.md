@@ -23,7 +23,6 @@ The INDI project seeks to address key shortcomings in traditional search engines
   *INDI seeks to rebuild trust by offering a decentralized, community-driven review process that ensures transparency in result validation.*
 
 ## Installation
-## Installation Instructions
 
 ### Prerequisites
 
@@ -105,6 +104,7 @@ docker run -d --name reviewfrontend --network indi_network -p 3000:3000 reviewfr
 1. Build the MySQL Docker image:
 
 ```bash
+cd ../db
 docker build -t reviewdb .
 ```
 
@@ -119,6 +119,7 @@ docker run -d --name reviewdb --network indi_network -p 3306:3306 reviewdb
 1. Build the Review Backend Docker image:
 
 ```bash
+cd ../backend
 docker build -t reviewbackend .
 ```
 
@@ -126,6 +127,27 @@ docker build -t reviewbackend .
 
 ```bash
 docker run -d --name reviewbackend --network indi_network -p 1337:1337 reviewbackend
+```
+
+### STep 7: Set Up the Blockchain Module
+
+1. Clone the **Blockchain Module** repository:
+
+```bash
+git clone https://github.com/ngi-indi/module-blockchain  
+cd ../module-blockchain
+```
+
+2. Build the Review Frontend Docker image:
+
+```bash
+docker build -t blockchain .
+```
+
+3. Run the Blockchain Module container:
+
+```bash
+docker run -d --name blockchain --network indi_network -p 3000:3000 blockchain
 ```
 
 ## Partners
