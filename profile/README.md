@@ -1,8 +1,6 @@
-# NGI INDI Project
-
 ## Introduction
 
-The NGI INDI (Improve Privacy and Trust in Non-Personalized Information Discovery) project is part of the NGI Search initiative funded by the European Union under grant agreement No. 101069364. INDI aims to create a privacy-centric, transparent, and open-source search engine with debiasing, explainability, and anonymity as core features. The project also includes a crowdsourcing review platform that leverages human reviewers to ensure search result quality through manual validation.
+The **INDI** (Improve Privacy and Trust in Non-Personalized Information Discovery) project is part of the **NGI Search** initiative funded by the **European Union** under grant agreement No. 101069364. INDI aims to create a **privacy-centric**, **transparent**, and **open-source** search engine with **debiasing**, **explainability**, and **anonymity** as core features. The project also includes a **crowdsourcing review platform** that leverages **human reviewers** to ensure search result quality through **manual validation**.
 
 ## Project Goals
 
@@ -12,13 +10,13 @@ The INDI project seeks to address key shortcomings in traditional search engines
   *INDI counters this by re-ranking results to prioritize debiasing, ensuring a diverse representation of perspectives.*
 
 - **Opaque Processes**: Users have limited insight into how search results are prioritized.  
-  *INDI provides transparency through explainable artificial intelligence, offering users clear reasons for why certain results are ranked higher.*
+  *INDI provides transparency through explainable artificial intelligence, offering users reasons for why certain results are ranked higher.*
 
 - **Privacy Invasion**: Search engines frequently track and exploit user data without consent.  
-  *INDI enhances user privacy by anonymizing search queries and avoiding data collection, giving users control over their personal information.*
+  *INDI enhances user privacy by anonymizing search queries and avoiding data collection, giving users control over their personal data.*
 
 - **Erosion of Trust**: These factors contribute to a lack of trust in search results.  
-  *INDI seeks to rebuild trust by offering a decentralized, community-driven review process that ensures transparency and quality in result validation.*
+  *INDI seeks to rebuild trust by offering a decentralized, community-driven review process that ensures transparency in result validation.*
 
 ## Partners
 
