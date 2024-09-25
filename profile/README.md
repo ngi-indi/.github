@@ -138,7 +138,7 @@ git clone https://github.com/ngi-indi/module-blockchain
 cd ../module-blockchain
 ```
 
-2. Build the Review Frontend Docker image:
+2. Build the  Blockchain Module Docker image:
 
 ```bash
 docker build -t blockchain .
