@@ -6,22 +6,25 @@ The **INDI** (Improve Privacy and Trust in Non-Personalized Information Discover
 
 The INDI project seeks to address key shortcomings in traditional search engines:
 
-- **Bias and Inequity**: Existing platforms often limit diverse perspectives and reinforce inequalities.  
+- **Bias and inequity**: Existing platforms often limit diverse perspectives and reinforce inequalities.  
   *INDI counters this by re-ranking results to prioritize debiasing, ensuring a diverse representation of perspectives.*
 
-- **Opaque Processes**: Users have limited insight into how search results are prioritized.  
+- **Opaque processes**: Users have limited insight into how search results are prioritized.  
   *INDI provides transparency through explainable artificial intelligence, offering users reasons for why certain results are ranked higher.*
 
-- **Privacy Invasion**: Search engines frequently track and exploit user data without consent.  
+- **Privacy invasion**: Search engines frequently track and exploit user data without consent.  
   *INDI enhances user privacy by anonymizing search queries and avoiding data collection, giving users control over their personal data.*
 
-- **Erosion of Trust**: These factors contribute to a lack of trust in search results.  
+- **Erosion of trust**: These factors contribute to a lack of trust in search results.  
   *INDI seeks to rebuild trust by offering a decentralized, community-driven review process that ensures transparency in result validation.*
 
 ## Partners
 
-- **University of Cagliari**: Key research partner with expertise in Information Retrieval, AI, and Semantic Web.
-- **R2M Solution**: Business development partner providing industry experience and ICT activities.
+- **University of Cagliari**: Key research partner with expertise in Information Retrieval, AI, and Semantic Web.  
+  ![University of Cagliari Logo](https://www.unica.it/ecommerce/export/sites/default/it/.galleries/nuova_immagine_home/universita_cagliari_logo.png)
+
+- **R2M Solution**: Business development partner providing industry experience and ICT activities.  
+  ![R2M Solution Logo](https://www.r2msolution.com/wordpress/wp-content/uploads/2020/03/logo-R2M-black.png)
 
 ## How to Contribute
 
