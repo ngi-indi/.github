@@ -1,5 +1,9 @@
-## Introduction
+  # INDI
 
+  ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+  ![Version 0.1](https://img.shields.io/badge/version-0.1-green.svg)
+  ![Status: Stable](https://img.shields.io/badge/status-stable-brightgreen.svg)
+  
 The **INDI** (Improve Privacy and Trust in Non-Personalized Information Discovery) project is part of the **NGI Search** initiative funded by the **European Union** under grant agreement No. 101069364. INDI aims to create a **privacy-centric**, **transparent**, and **open-source** search engine with **debiasing**, **explainability**, and **anonymity** as core features. The project also includes a **crowdsourcing review platform** that leverages **human reviewers** to ensure search result quality through **manual validation**.
 
 ## Project Goals
@@ -40,5 +44,4 @@ For any questions or collaboration inquiries, please reach out:
 
 ---
 
-**Funded by the European Union**  
-This project is funded within the framework of the NGI Search project. The views expressed here are those of the author(s) only and do not necessarily reflect the views of the European Union.
+**Funded by the European Union**: This project is funded within the framework of the NGI Search project. The views expressed here are those of the author(s) only and do not necessarily reflect the views of the European Union.
