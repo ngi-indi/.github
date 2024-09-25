@@ -22,6 +22,12 @@ The INDI project seeks to address key shortcomings in traditional search engines
 - **Erosion of trust**: These factors contribute to a lack of trust in search results.  
   *InDi seeks to rebuild trust by offering a decentralized, community-driven review process that ensures transparency in result validation.*
 
+## Installation
+...
+
+## Usage
+...
+
 ## Partners
 
 - **University of Cagliari**: Key research partner with expertise in Information Retrieval, AI, and Semantic Web.  
@@ -32,16 +38,17 @@ The INDI project seeks to address key shortcomings in traditional search engines
 
 ## How to Contribute
 
-We welcome contributions from the open-source community, including code improvements, feedback on user experience, and participation in the review process. You can participate in validation tasks or suggest improvements to ensure INDI meets its goals of enhancing privacy, transparency, and trust in online information discovery.
+We welcome contributions from the open-source community, including code improvements, feedback on user experience, and participation in the review process. You can participate in validation tasks or suggest improvements to ensure InDi meets its goals of enhancing privacy, transparency, and trust in online information discovery.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ngi-indi/.github/blob/main/LICENSE.md) file for details.
 
 ## Contact
-
-For any questions or collaboration inquiries, please reach out:
-
-- **Project Lead**: Mirko Marras, University of Cagliari  
-- **Email**: mirko.marras@unica.it  
-- **Social**: [@mirkomarras on X and LinkedIn](https://x.com/mirkomarras)
+For any questions or support, please reach out to:
+- University of Cagliari: bart@unica.it, diego.reforgiato@unica.it, ludovico.boratto@unica.it, mirko.marras@unica.it
+- R2M Solution: giuseppe.scarpi@r2msolution.com
+- Website: Coming soon!
 
 ---
 
-**Funded by the European Union**: This project is funded within the framework of the NGI Search project. The views expressed here are those of the author(s) only and do not necessarily reflect the views of the European Union.
+This project is funded within the framework of the NGI Search project. The views expressed here are those of the author(s) only and do not necessarily reflect the views of the European Union.
