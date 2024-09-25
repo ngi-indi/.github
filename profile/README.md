@@ -35,8 +35,6 @@ The InDi project seeks to address key shortcomings in traditional search engines
 **University of Cagliari**  
 Key research partner with expertise in Information Retrieval, Artificial Intelligence, and Semantic Web.
 
----
-
 <img src="https://lifeprojects.r2msolution.com/wp-content/uploads/2024/03/Logo-R2M-Solution-RED-SRGB-2.png" alt="R2M Solution Logo" width="100"/>
 
 **R2M Solution**  
