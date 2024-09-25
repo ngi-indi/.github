@@ -33,73 +33,100 @@ Before starting, ensure you have Docker and Git installed on your system.
 
 First, create a Docker network that will be used by all the containers to communicate with each other.
 
+```bash
 docker network create indi_network
+```
 
 ### Step 2: Set Up the Bias Manager Module
 
 1. Clone the **Bias Manager** repository:
 
-  git clone https://github.com/ngi-indi/module-bias-manager  
-  cd ./module-bias-manager
+```bash
+git clone https://github.com/ngi-indi/module-bias-manager  
+cd ./module-bias-manager
+```
 
 2. Build the Bias Manager Docker image:
 
-  docker build -t biasmanager .
+```bash
+docker build -t biasmanager .
+```
 
 3. Run the Bias Manager container:
 
+```bash
 docker run -d --name biasmanager --network indi_network -p 5000:5000 biasmanager
+```
 
 ### Step 3: Set Up the Search Engine Module
 
 1. Clone the **Search Engine** repository:
 
+```bash
 git clone https://github.com/ngi-indi/module-search  
 cd ../module-search
+```
 
 2. Build the Search Engine Docker image:
 
+```bash
 docker build -t searchengine .
+```
 
 3. Run the Search Engine container:
 
+```bash
 docker run -d --name searchengine --network indi_network -p 8080:8080 searchengine
+```
 
 ### Step 4: Set Up the Frontend Module
 
 1. Clone the **Review Frontend** repository:
 
+```bash
 git clone https://github.com/ngi-indi/module-annotation  
 cd ../module-annotation/frontend
+```
 
 2. Build the Review Frontend Docker image:
 
+```bash
 docker build -t reviewfrontend .
+```
 
 3. Run the Review Frontend container:
 
+```bash
 docker run -d --name reviewfrontend --network indi_network -p 3000:3000 reviewfrontend
+```
 
 ### Step 5: Set Up the Database
 
 1. Build the MySQL Docker image:
 
+```bash
 docker build -t reviewdb .
+```
 
 2. Run the Review Database container:
 
+```bash
 docker run -d --name reviewdb --network indi_network -p 3306:3306 reviewdb
+```
 
 ### Step 6: Set Up the Backend Module
 
 1. Build the Review Backend Docker image:
 
+```bash
 docker build -t reviewbackend .
+```
 
 2. Run the Review Backend container:
 
+```bash
 docker run -d --name reviewbackend --network indi_network -p 1337:1337 reviewbackend
-
+```
 
 ## Partners
 
