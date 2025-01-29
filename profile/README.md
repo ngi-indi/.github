@@ -170,7 +170,7 @@ We welcome contributions from the open-source community, including code improvem
 The adoption plan outlining the progress in evaluating and refining the platform’s core components, emphasizing performance, accuracy, and overall usability is available [here](https://u.garr.it/KPUzc).
 
 ## License
-This project is licensed under the AGPL v3 License - see the [LICENSE](https://github.com/ngi-indi/.github/blob/main/LICENSE.md) file for details.
+This project is licensed under the AGPL v3 License - see the [LICENSE](https://github.com/ngi-indi/.github/blob/main/LICENSE) file for details.
 
 ## Contact
 For any questions or support, please reach out to:
