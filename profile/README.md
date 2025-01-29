@@ -166,8 +166,11 @@ Business development partner providing industry experience on Information and Co
 
 We welcome contributions from the open-source community, including code improvements, feedback on user experience, and participation in the review process. You can participate in validation tasks or suggest improvements to ensure INDI meets its goals of enhancing privacy, transparency, and trust in online information discovery.
 
+## Documentation
+The adoption plan outlining the progress in evaluating and refining the platform’s core components, emphasizing performance, accuracy, and overall usability is available [here](https://u.garr.it/KPUzc).
+
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/ngi-indi/.github/blob/main/LICENSE.md) file for details.
+This project is licensed under the AGPL v3 License - see the [LICENSE](https://github.com/ngi-indi/.github/blob/main/LICENSE.md) file for details.
 
 ## Contact
 For any questions or support, please reach out to:
