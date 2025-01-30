@@ -1,6 +1,6 @@
   # INDI
-
-  ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+  
+  ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
   ![Version 0.1](https://img.shields.io/badge/version-0.1-green.svg)
   ![Status: Stable](https://img.shields.io/badge/status-stable-brightgreen.svg)
   
